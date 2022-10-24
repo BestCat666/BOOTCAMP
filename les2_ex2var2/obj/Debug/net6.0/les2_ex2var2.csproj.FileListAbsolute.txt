@@ -1,0 +1,15 @@
+C:\Users\BestCat\Desktop\BC\les2_ex2var2\obj\Debug\net6.0\les2_ex2var2.csproj.AssemblyReference.cache
+C:\Users\BestCat\Desktop\BC\les2_ex2var2\obj\Debug\net6.0\les2_ex2var2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BestCat\Desktop\BC\les2_ex2var2\obj\Debug\net6.0\les2_ex2var2.AssemblyInfoInputs.cache
+C:\Users\BestCat\Desktop\BC\les2_ex2var2\obj\Debug\net6.0\les2_ex2var2.AssemblyInfo.cs
+C:\Users\BestCat\Desktop\BC\les2_ex2var2\obj\Debug\net6.0\les2_ex2var2.csproj.CoreCompileInputs.cache
+C:\Users\BestCat\Desktop\BC\les2_ex2var2\bin\Debug\net6.0\les2_ex2var2.exe
+C:\Users\BestCat\Desktop\BC\les2_ex2var2\bin\Debug\net6.0\les2_ex2var2.deps.json
+C:\Users\BestCat\Desktop\BC\les2_ex2var2\bin\Debug\net6.0\les2_ex2var2.runtimeconfig.json
+C:\Users\BestCat\Desktop\BC\les2_ex2var2\bin\Debug\net6.0\les2_ex2var2.dll
+C:\Users\BestCat\Desktop\BC\les2_ex2var2\bin\Debug\net6.0\les2_ex2var2.pdb
+C:\Users\BestCat\Desktop\BC\les2_ex2var2\obj\Debug\net6.0\les2_ex2var2.dll
+C:\Users\BestCat\Desktop\BC\les2_ex2var2\obj\Debug\net6.0\refint\les2_ex2var2.dll
+C:\Users\BestCat\Desktop\BC\les2_ex2var2\obj\Debug\net6.0\les2_ex2var2.pdb
+C:\Users\BestCat\Desktop\BC\les2_ex2var2\obj\Debug\net6.0\les2_ex2var2.genruntimeconfig.cache
+C:\Users\BestCat\Desktop\BC\les2_ex2var2\obj\Debug\net6.0\ref\les2_ex2var2.dll
