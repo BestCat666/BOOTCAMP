@@ -1,0 +1,15 @@
+C:\Users\BestCat\Desktop\BC\les2\bin\Debug\net6.0\les2.exe
+C:\Users\BestCat\Desktop\BC\les2\bin\Debug\net6.0\les2.deps.json
+C:\Users\BestCat\Desktop\BC\les2\bin\Debug\net6.0\les2.runtimeconfig.json
+C:\Users\BestCat\Desktop\BC\les2\bin\Debug\net6.0\les2.dll
+C:\Users\BestCat\Desktop\BC\les2\bin\Debug\net6.0\les2.pdb
+C:\Users\BestCat\Desktop\BC\les2\obj\Debug\net6.0\les2.csproj.AssemblyReference.cache
+C:\Users\BestCat\Desktop\BC\les2\obj\Debug\net6.0\les2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BestCat\Desktop\BC\les2\obj\Debug\net6.0\les2.AssemblyInfoInputs.cache
+C:\Users\BestCat\Desktop\BC\les2\obj\Debug\net6.0\les2.AssemblyInfo.cs
+C:\Users\BestCat\Desktop\BC\les2\obj\Debug\net6.0\les2.csproj.CoreCompileInputs.cache
+C:\Users\BestCat\Desktop\BC\les2\obj\Debug\net6.0\les2.dll
+C:\Users\BestCat\Desktop\BC\les2\obj\Debug\net6.0\refint\les2.dll
+C:\Users\BestCat\Desktop\BC\les2\obj\Debug\net6.0\les2.pdb
+C:\Users\BestCat\Desktop\BC\les2\obj\Debug\net6.0\les2.genruntimeconfig.cache
+C:\Users\BestCat\Desktop\BC\les2\obj\Debug\net6.0\ref\les2.dll
