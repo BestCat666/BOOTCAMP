@@ -1,0 +1,15 @@
+C:\Users\BestCat\Desktop\BC\les6_ex1\bin\Debug\net6.0\les6_ex1.exe
+C:\Users\BestCat\Desktop\BC\les6_ex1\bin\Debug\net6.0\les6_ex1.deps.json
+C:\Users\BestCat\Desktop\BC\les6_ex1\bin\Debug\net6.0\les6_ex1.runtimeconfig.json
+C:\Users\BestCat\Desktop\BC\les6_ex1\bin\Debug\net6.0\les6_ex1.dll
+C:\Users\BestCat\Desktop\BC\les6_ex1\bin\Debug\net6.0\les6_ex1.pdb
+C:\Users\BestCat\Desktop\BC\les6_ex1\obj\Debug\net6.0\les6_ex1.csproj.AssemblyReference.cache
+C:\Users\BestCat\Desktop\BC\les6_ex1\obj\Debug\net6.0\les6_ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BestCat\Desktop\BC\les6_ex1\obj\Debug\net6.0\les6_ex1.AssemblyInfoInputs.cache
+C:\Users\BestCat\Desktop\BC\les6_ex1\obj\Debug\net6.0\les6_ex1.AssemblyInfo.cs
+C:\Users\BestCat\Desktop\BC\les6_ex1\obj\Debug\net6.0\les6_ex1.csproj.CoreCompileInputs.cache
+C:\Users\BestCat\Desktop\BC\les6_ex1\obj\Debug\net6.0\les6_ex1.dll
+C:\Users\BestCat\Desktop\BC\les6_ex1\obj\Debug\net6.0\refint\les6_ex1.dll
+C:\Users\BestCat\Desktop\BC\les6_ex1\obj\Debug\net6.0\les6_ex1.pdb
+C:\Users\BestCat\Desktop\BC\les6_ex1\obj\Debug\net6.0\les6_ex1.genruntimeconfig.cache
+C:\Users\BestCat\Desktop\BC\les6_ex1\obj\Debug\net6.0\ref\les6_ex1.dll
